@@ -1,0 +1,7 @@
+-- Hallo meine welt Welt
+-- Hallo Universum
+insert into tblrollen (rolle) values ("master");
+insert into tblrollen (rolle) values ("manager");
+insert into tblrollen (rolle) values ("monteur");
+insert into tblrollen (rolle) values ("meister");
+
